@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5647" started-at="2022-12-12T22:11:20Z" finished-at="2022-12-12T22:11:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5647" started-at="2022-12-12T22:11:20Z" finished-at="2022-12-12T22:11:25Z">
+      <class name="testng.LoginTest">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:testng.LoginTest@41ee392b]" name="initDriver" is-config="true" duration-ms="3744" started-at="2022-12-12T16:11:20Z" finished-at="2022-12-12T16:11:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:testng.LoginTest@41ee392b]" name="loginTest" duration-ms="1879" started-at="2022-12-12T16:11:24Z" finished-at="2022-12-12T16:11:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- testng.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
